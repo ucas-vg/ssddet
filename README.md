@@ -1,4 +1,18 @@
-[[paper]]()
+<div align="center">   
+  
+# Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes
+</div>
+
+
+<h3 align="center">
+  <a href="https://arxiv.org/abs/2307.12101">arXiv</a> 
+</h3>
+
+
+<br><br>
+
+![SSD-Det](sources/framework.png)
+
 
 ## Citation
 If the work do some help for your research, please cite:
